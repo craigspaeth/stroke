@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Profile O</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.4072658,11 C25.2581262,11 30,15.3594646 30,20.751434 C30,25.3785851 25.7552581,28.6290631 19.6749522,28.6290631 C13.6711281,28.6290631 10,25.3403442 10,19.9483748 C10,17.2715105 10.9560229,15.0535373 12.8680688,13.4091778 C14.7418738,11.8030593 16.9216061,11 19.4072658,11 Z M17.8393881,13.2562141 C16.1950287,13.2562141 15.0860421,14.6711281 15.0860421,16.7743786 C15.0860421,21.1338432 18.4512428,25.9521989 21.4722753,25.9521989 C23.3078394,25.9521989 24.4933078,24.6520076 24.4933078,22.6634799 C24.4933078,18.456979 20.8221797,13.2562141 17.8393881,13.2562141 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-Profile-O" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="octave" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>
