@@ -4701,38 +4701,38 @@ module.exports = XmlEntities;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/dev-error-overlay.js":
+/***/ "../../node_modulesnext/dist/client/dev-error-overlay.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireWildcard = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
+var _interopRequireWildcard = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
+var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
+var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 
-var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/inherits.js"));
+var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/inherits.js"));
 
-var _assertThisInitialized2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js"));
+var _assertThisInitialized2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/assertThisInitialized.js"));
 
 var _react = _interopRequireDefault(__webpack_require__("../../node_modules/react/index.js"));
 
-var _sourceMapSupport = __webpack_require__("../../node_modules/next/dist/client/source-map-support.js");
+var _sourceMapSupport = __webpack_require__("../../node_modulesnext/dist/client/source-map-support.js");
 
-var errorDebug = _interopRequireWildcard(__webpack_require__("../../node_modules/next/dist/lib/error-debug.js"));
+var errorDebug = _interopRequireWildcard(__webpack_require__("../../node_modulesnext/dist/lib/error-debug.js"));
 
 // This component is only used in development, sourcemaps are applied on the fly because componentDidCatch is not async
 var DevErrorOverlay =
@@ -4806,32 +4806,32 @@ exports.default = _default;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/error-boundary.js":
+/***/ "../../node_modulesnext/dist/client/error-boundary.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireWildcard = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
+var _interopRequireWildcard = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
+var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
+var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 
-var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/inherits.js"));
+var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/inherits.js"));
 
-var _assertThisInitialized2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js"));
+var _assertThisInitialized2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/assertThisInitialized.js"));
 
 var React = _interopRequireWildcard(__webpack_require__("../../node_modules/react/index.js"));
 
@@ -4916,24 +4916,24 @@ exports.default = _default;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/head-manager.js":
+/***/ "../../node_modulesnext/dist/client/head-manager.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _promise = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js"));
+var _promise = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
 var DEFAULT_TITLE = '';
 var DOMAttributeNames = {
@@ -5050,15 +5050,15 @@ function reactElementToDOM(_ref) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/index.js":
+/***/ "../../node_modulesnext/dist/client/index.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireWildcard = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
+var _interopRequireWildcard = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -5067,35 +5067,35 @@ exports.render = render;
 exports.renderError = renderError;
 exports.default = exports.emitter = exports.ErrorComponent = exports.router = void 0;
 
-var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/objectSpread.js"));
+var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/objectSpread.js"));
 
-var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js"));
+var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/regenerator/index.js"));
 
-var _getIterator2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/get-iterator.js"));
+var _getIterator2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/get-iterator.js"));
 
-var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
+var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
 
-var _promise = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js"));
+var _promise = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js"));
 
 var _react = _interopRequireDefault(__webpack_require__("../../node_modules/react/index.js"));
 
 var _reactDom = _interopRequireDefault(__webpack_require__("../../node_modules/react-dom/index.js"));
 
-var _headManager = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/client/head-manager.js"));
+var _headManager = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/client/head-manager.js"));
 
-var _router2 = __webpack_require__("../../node_modules/next/dist/lib/router/index.js");
+var _router2 = __webpack_require__("../../node_modulesnext/dist/lib/router/index.js");
 
-var _EventEmitter = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/EventEmitter.js"));
+var _EventEmitter = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/EventEmitter.js"));
 
-var _utils = __webpack_require__("../../node_modules/next/dist/lib/utils.js");
+var _utils = __webpack_require__("../../node_modulesnext/dist/lib/utils.js");
 
-var _pageLoader = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/page-loader.js"));
+var _pageLoader = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/page-loader.js"));
 
-var asset = _interopRequireWildcard(__webpack_require__("../../node_modules/next/dist/lib/asset.js"));
+var asset = _interopRequireWildcard(__webpack_require__("../../node_modulesnext/dist/lib/asset.js"));
 
-var envConfig = _interopRequireWildcard(__webpack_require__("../../node_modules/next/dist/lib/runtime-config.js"));
+var envConfig = _interopRequireWildcard(__webpack_require__("../../node_modulesnext/dist/lib/runtime-config.js"));
 
-var errorBoundary = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/client/error-boundary.js"));
+var errorBoundary = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/client/error-boundary.js"));
 
 // Polyfill Promise globally
 // This is needed because Webpack2's dynamic loading(common chunks) code
@@ -5120,7 +5120,7 @@ var _window = window,
     location = _window.location; // With dynamic assetPrefix it's no longer possible to set assetPrefix at the build time
 // So, this is how we do it in the client side at runtime
 
-__webpack_require__.p = "".concat(assetPrefix, "/next/webpack/"); //eslint-disable-line
+__webpack_require__.p = "".concat(assetPrefix, "next/webpack/"); //eslint-disable-line
 // Initialize next/asset with the assetPrefix
 
 asset.setAssetPrefix(assetPrefix); // Initialize next/config with the environment configuration
@@ -5595,27 +5595,27 @@ function renderReactElement(reactEl, domEl) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/next-dev.js":
+/***/ "../../node_modulesnext/dist/client/next-dev.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireWildcard = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
+var _interopRequireWildcard = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 var _stripAnsi = _interopRequireDefault(__webpack_require__("../../node_modules/strip-ansi/index.js"));
 
-var next = _interopRequireWildcard(__webpack_require__("../../node_modules/next/dist/client/index.js"));
+var next = _interopRequireWildcard(__webpack_require__("../../node_modulesnext/dist/client/index.js"));
 
-var _devErrorOverlay = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/client/dev-error-overlay.js"));
+var _devErrorOverlay = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/client/dev-error-overlay.js"));
 
-var _onDemandEntriesClient = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/client/on-demand-entries-client.js"));
+var _onDemandEntriesClient = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/client/on-demand-entries-client.js"));
 
-var _webpackHotMiddlewareClient = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/client/webpack-hot-middleware-client.js"));
+var _webpackHotMiddlewareClient = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/client/webpack-hot-middleware-client.js"));
 
-var _sourceMapSupport = __webpack_require__("../../node_modules/next/dist/client/source-map-support.js");
+var _sourceMapSupport = __webpack_require__("../../node_modulesnext/dist/client/source-map-support.js");
 
 window.next = next;
 (0, next.default)({
@@ -5660,26 +5660,26 @@ window.next = next;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/on-demand-entries-client.js":
+/***/ "../../node_modulesnext/dist/client/on-demand-entries-client.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _promise = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js"));
+var _promise = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js"));
 
-var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js"));
+var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/regenerator/index.js"));
 
-var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
+var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
 
-var _router = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/router/index.js"));
+var _router = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/router/index.js"));
 
 var _unfetch = _interopRequireDefault(__webpack_require__("../../node_modules/unfetch/dist/unfetch.es.js"));
 
@@ -5706,7 +5706,7 @@ var _default = function _default() {
           switch (_context.prev = _context.next) {
             case 0:
               _context.prev = 0;
-              url = "".concat(assetPrefix, "/next/on-demand-entries-ping?page=").concat(_router.default.pathname);
+              url = "".concat(assetPrefix, "next/on-demand-entries-ping?page=").concat(_router.default.pathname);
               _context.next = 4;
               return (0, _unfetch.default)(url, {
                 credentials: 'omit'
@@ -5816,24 +5816,24 @@ exports.default = _default;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/source-map-support.js":
+/***/ "../../node_modulesnext/dist/client/source-map-support.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.applySourcemaps = applySourcemaps;
 
-var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js"));
+var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/regenerator/index.js"));
 
-var _promise = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js"));
+var _promise = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js"));
 
-var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
+var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
 
 var _unfetch = _interopRequireDefault(__webpack_require__("../../node_modules/unfetch/dist/unfetch.es.js"));
 
@@ -5967,35 +5967,35 @@ function _rewriteTraceLine() {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/webpack-hot-middleware-client.js":
+/***/ "../../node_modulesnext/dist/client/webpack-hot-middleware-client.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _toConsumableArray2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/toConsumableArray.js"));
+var _toConsumableArray2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/toConsumableArray.js"));
 
-var _keys = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/keys.js"));
+var _keys = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/keys.js"));
 
 __webpack_require__("../../node_modules/event-source-polyfill/src/eventsource.js");
 
 var _clientAutoConnectFalseOverlayFalseReloadTrue = _interopRequireDefault(__webpack_require__("../../node_modules/webpack-hot-middleware/client.js?autoConnect=false&overlay=false&reload=true"));
 
-var _router = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/router/index.js"));
+var _router = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/router/index.js"));
 
 var _window = window,
     assetPrefix = _window._next_DATA__.assetPrefix;
 
 var _default = function _default() {
   _clientAutoConnectFalseOverlayFalseReloadTrue.default.setOptionsAndConnect({
-    path: "".concat(assetPrefix, "/next/webpack-hmr")
+    path: "".concat(assetPrefix, "next/webpack-hmr")
   });
 
   var handlers = {
@@ -6086,24 +6086,24 @@ exports.default = _default;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/EventEmitter.js":
+/***/ "../../node_modulesnext/dist/lib/EventEmitter.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _set = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/set.js"));
+var _set = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/set.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
 var EventEmitter =
 /*#__PURE__*/
@@ -6156,7 +6156,7 @@ exports.default = EventEmitter;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/asset.js":
+/***/ "../../node_modulesnext/dist/lib/asset.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6176,7 +6176,7 @@ function asset(path) {
   }
 
   var pathWithoutSlash = path.replace(/^\//, '');
-  return "".concat(assetPrefix || '', "/static/").concat(pathWithoutSlash);
+  return "".concat(assetPrefix || '', "static/").concat(pathWithoutSlash);
 }
 
 function setAssetPrefix(url) {
@@ -6185,13 +6185,13 @@ function setAssetPrefix(url) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/error-debug.js":
+/***/ "../../node_modulesnext/dist/lib/error-debug.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -6203,7 +6203,7 @@ var _react = _interopRequireDefault(__webpack_require__("../../node_modules/reac
 
 var _ansiHtml = _interopRequireDefault(__webpack_require__("../../node_modules/ansi-html/index.js"));
 
-var _head = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/head.js"));
+var _head = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/head.js"));
 
 // This component is rendered through dev-error-overlay on the client side.
 // On the server side it's rendered directly
@@ -6301,13 +6301,13 @@ _ansiHtml.default.setColors({
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/head.js":
+/***/ "../../node_modulesnext/dist/lib/head.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -6315,25 +6315,25 @@ Object.defineProperty(exports, "__esModule", {
 exports.defaultHead = defaultHead;
 exports.default = void 0;
 
-var _set = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/set.js"));
+var _set = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/set.js"));
 
-var _toConsumableArray2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/toConsumableArray.js"));
+var _toConsumableArray2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/toConsumableArray.js"));
 
-var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
+var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
+var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 
-var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/inherits.js"));
+var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/inherits.js"));
 
 var _react = _interopRequireDefault(__webpack_require__("../../node_modules/react/index.js"));
 
-var _propTypes = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/prop-types/index.js"));
+var _propTypes = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/prop-types/index.js"));
 
-var _sideEffect = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/side-effect.js"));
+var _sideEffect = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/side-effect.js"));
 
 var Head =
 /*#__PURE__*/
@@ -6461,26 +6461,26 @@ exports.default = _default;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/p-queue.js":
+/***/ "../../node_modulesnext/dist/lib/p-queue.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _promise = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js"));
+var _promise = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js"));
 
-var _assign = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/assign.js"));
+var _assign = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/assign.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
 // based on https://github.com/sindresorhus/p-queue (MIT)
 // modified for browser support
@@ -6602,26 +6602,26 @@ exports.default = PQueue;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/page-loader.js":
+/***/ "../../node_modulesnext/dist/lib/page-loader.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(module) {
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _promise = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js"));
+var _promise = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
-var _EventEmitter = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/EventEmitter.js"));
+var _EventEmitter = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/EventEmitter.js"));
 
 /* global window, document */
 var webpackModule = module;
@@ -6709,7 +6709,7 @@ function () {
       route = this.normalizeRoute(route);
       var scriptRoute = route === '/' ? '/index.js' : "".concat(route, ".js");
       var script = document.createElement('script');
-      var url = "".concat(this.assetPrefix, "/next/").concat(encodeURIComponent(this.buildId), "/page").concat(scriptRoute);
+      var url = "".concat(this.assetPrefix, "next/").concat(encodeURIComponent(this.buildId), "/page").concat(scriptRoute);
       script.src = url;
 
       script.onerror = function () {
@@ -6821,13 +6821,13 @@ exports.default = PageLoader;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/router/index.js":
+/***/ "../../node_modulesnext/dist/lib/router/index.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -6842,19 +6842,19 @@ Object.defineProperty(exports, "withRouter", {
 });
 exports.Router = exports.createRouter = exports.default = void 0;
 
-var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/objectSpread.js"));
+var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/objectSpread.js"));
 
-var _typeof2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/typeof.js"));
+var _typeof2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/typeof.js"));
 
-var _slicedToArray2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/slicedToArray.js"));
+var _slicedToArray2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/slicedToArray.js"));
 
-var _defineProperty = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/define-property.js"));
+var _defineProperty = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/define-property.js"));
 
-var _router = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/router/router.js"));
+var _router = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/router/router.js"));
 
-var _utils = __webpack_require__("../../node_modules/next/dist/lib/utils.js");
+var _utils = __webpack_require__("../../node_modulesnext/dist/lib/utils.js");
 
-var _withRouter = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/router/with-router.js"));
+var _withRouter = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/router/with-router.js"));
 
 /* global window */
 var SingletonRouter = {
@@ -7026,46 +7026,46 @@ function makePublicRouterInstance(router) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/router/router.js":
+/***/ "../../node_modulesnext/dist/lib/router/router.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
 
-var _slicedToArray2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/slicedToArray.js"));
+var _slicedToArray2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/slicedToArray.js"));
 
-var _typeof2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/typeof.js"));
+var _typeof2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/typeof.js"));
 
-var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js"));
+var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/regenerator/index.js"));
 
-var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
+var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
 
-var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/objectSpread.js"));
+var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/objectSpread.js"));
 
-var _set = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/set.js"));
+var _set = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/set.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
 var _url2 = __webpack_require__("../../node_modules/url/url.js");
 
-var _EventEmitter = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/EventEmitter.js"));
+var _EventEmitter = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/EventEmitter.js"));
 
-var _shallowEquals = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/shallow-equals.js"));
+var _shallowEquals = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/shallow-equals.js"));
 
-var _pQueue = _interopRequireDefault(__webpack_require__("../../node_modules/next/dist/lib/p-queue.js"));
+var _pQueue = _interopRequireDefault(__webpack_require__("../../node_modulesnext/dist/lib/p-queue.js"));
 
-var _utils = __webpack_require__("../../node_modules/next/dist/lib/utils.js");
+var _utils = __webpack_require__("../../node_modulesnext/dist/lib/utils.js");
 
-var _ = __webpack_require__("../../node_modules/next/dist/lib/router/index.js");
+var _ = __webpack_require__("../../node_modulesnext/dist/lib/router/index.js");
 
 /* global _next_DATA__ */
 var historyUnavailableWarning = (0, _utils.execOnce)(function () {
@@ -7828,40 +7828,40 @@ function toRoute(path) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/router/with-router.js":
+/***/ "../../node_modulesnext/dist/lib/router/with-router.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireWildcard = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
+var _interopRequireWildcard = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = withRouter;
 
-var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/objectSpread.js"));
+var _objectSpread2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/objectSpread.js"));
 
-var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
+var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
+var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 
-var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/inherits.js"));
+var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/inherits.js"));
 
 var _react = _interopRequireWildcard(__webpack_require__("../../node_modules/react/index.js"));
 
-var _propTypes = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/prop-types/index.js"));
+var _propTypes = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/prop-types/index.js"));
 
 var _hoistNonReactStatics = _interopRequireDefault(__webpack_require__("../../node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js"));
 
-var _utils = __webpack_require__("../../node_modules/next/dist/lib/utils.js");
+var _utils = __webpack_require__("../../node_modulesnext/dist/lib/utils.js");
 
 function withRouter(ComposedComponent) {
   var displayName = (0, _utils.getDisplayName)(ComposedComponent);
@@ -7907,7 +7907,7 @@ function withRouter(ComposedComponent) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/runtime-config.js":
+/***/ "../../node_modulesnext/dist/lib/runtime-config.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7932,7 +7932,7 @@ function setConfig(configValue) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/shallow-equals.js":
+/***/ "../../node_modulesnext/dist/lib/shallow-equals.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7957,38 +7957,38 @@ function shallowEquals(a, b) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/side-effect.js":
+/***/ "../../node_modulesnext/dist/lib/side-effect.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _interopRequireWildcard = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
+var _interopRequireWildcard = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = withSideEffect;
 
-var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
+var _getPrototypeOf = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-prototype-of.js"));
 
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js"));
 
-var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js"));
+var _createClass2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js"));
 
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
+var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 
-var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/inherits.js"));
+var _inherits2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/inherits.js"));
 
-var _toConsumableArray2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/toConsumableArray.js"));
+var _toConsumableArray2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/toConsumableArray.js"));
 
-var _set = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/set.js"));
+var _set = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/set.js"));
 
 var _react = _interopRequireWildcard(__webpack_require__("../../node_modules/react/index.js"));
 
-var _utils = __webpack_require__("../../node_modules/next/dist/lib/utils.js");
+var _utils = __webpack_require__("../../node_modulesnext/dist/lib/utils.js");
 
 function withSideEffect(reduceComponentsToState, handleStateChangeOnClient, mapStateOnServer) {
   if (typeof reduceComponentsToState !== 'function') {
@@ -8100,13 +8100,13 @@ function withSideEffect(reduceComponentsToState, handleStateChangeOnClient, mapS
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/lib/utils.js":
+/***/ "../../node_modulesnext/dist/lib/utils.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(process) {
 
-var _interopRequireDefault = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+var _interopRequireDefault = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -8121,11 +8121,11 @@ exports.loadGetInitialProps = loadGetInitialProps;
 exports.getLocationOrigin = getLocationOrigin;
 exports.getURL = getURL;
 
-var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js"));
+var _regenerator = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/regenerator/index.js"));
 
-var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
+var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/asyncToGenerator.js"));
 
-var _assign = _interopRequireDefault(__webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/assign.js"));
+var _assign = _interopRequireDefault(__webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/assign.js"));
 
 function warn(message) {
   if (true) {
@@ -8266,112 +8266,112 @@ function getURL() {
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/array/from.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/array/from.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/array/from.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/get-iterator.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/get-iterator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/get-iterator.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/is-iterable.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/is-iterable.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/is-iterable.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/assign.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/assign.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/assign.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/create.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/create.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/define-property.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/define-property.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/define-property.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-own-property-descriptor.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-own-property-descriptor.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/get-own-property-descriptor.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-own-property-symbols.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-own-property-symbols.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/get-own-property-symbols.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-prototype-of.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-prototype-of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/get-prototype-of.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/keys.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/keys.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/keys.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/object/set-prototype-of.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/object/set-prototype-of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/object/set-prototype-of.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/promise.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/set.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/set.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/set.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/symbol.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/symbol.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/symbol/index.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/core-js/symbol/iterator.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/core-js/symbol/iterator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/core-js/library/fn/symbol/iterator.js");
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/arrayWithHoles.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/arrayWithHoles.js":
 /***/ (function(module, exports) {
 
 function _arrayWithoutHoles(arr) {
@@ -8382,7 +8382,7 @@ module.exports = _arrayWithoutHoles;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js":
 /***/ (function(module, exports) {
 
 function _arrayWithoutHoles(arr) {
@@ -8399,7 +8399,7 @@ module.exports = _arrayWithoutHoles;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/assertThisInitialized.js":
 /***/ (function(module, exports) {
 
 function _assertThisInitialized(self) {
@@ -8414,10 +8414,10 @@ module.exports = _assertThisInitialized;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/asyncToGenerator.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/asyncToGenerator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Promise = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/promise.js");
+var _Promise = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/promise.js");
 
 function _asyncToGenerator(fn) {
   return function () {
@@ -8459,7 +8459,7 @@ module.exports = _asyncToGenerator;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/classCallCheck.js":
 /***/ (function(module, exports) {
 
 function _classCallCheck(instance, Constructor) {
@@ -8472,10 +8472,10 @@ module.exports = _classCallCheck;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/createClass.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Object$defineProperty = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/define-property.js");
+var _Object$defineProperty = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/define-property.js");
 
 function _defineProperties(target, props) {
   for (var i = 0; i < props.length; i++) {
@@ -8498,10 +8498,10 @@ module.exports = _createClass;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/defineProperty.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/defineProperty.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Object$defineProperty = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/define-property.js");
+var _Object$defineProperty = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/define-property.js");
 
 function _defineProperty(obj, key, value) {
   if (key in obj) {
@@ -8522,12 +8522,12 @@ module.exports = _defineProperty;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/inherits.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/inherits.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Object$setPrototypeOf = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/set-prototype-of.js");
+var _Object$setPrototypeOf = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/set-prototype-of.js");
 
-var _Object$create = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/create.js");
+var _Object$create = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/create.js");
 
 function _inherits(subClass, superClass) {
   if (typeof superClass !== "function" && superClass !== null) {
@@ -8549,7 +8549,7 @@ module.exports = _inherits;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireDefault.js":
 /***/ (function(module, exports) {
 
 function _interopRequireDefault(obj) {
@@ -8562,12 +8562,12 @@ module.exports = _interopRequireDefault;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireWildcard.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/interopRequireWildcard.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Object$getOwnPropertyDescriptor = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-own-property-descriptor.js");
+var _Object$getOwnPropertyDescriptor = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-own-property-descriptor.js");
 
-var _Object$defineProperty = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/define-property.js");
+var _Object$defineProperty = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/define-property.js");
 
 function _interopRequireWildcard(obj) {
   if (obj && obj.__esModule) {
@@ -8598,12 +8598,12 @@ module.exports = _interopRequireWildcard;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/iterableToArray.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/iterableToArray.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Array$from = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/array/from.js");
+var _Array$from = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/array/from.js");
 
-var _isIterable = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/is-iterable.js");
+var _isIterable = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/is-iterable.js");
 
 function _iterableToArray(iter) {
   if (_isIterable(Object(iter)) || Object.prototype.toString.call(iter) === "[object Arguments]") return _Array$from(iter);
@@ -8613,10 +8613,10 @@ module.exports = _iterableToArray;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _getIterator = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/get-iterator.js");
+var _getIterator = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/get-iterator.js");
 
 function _iterableToArrayLimit(arr, i) {
   var _arr = [];
@@ -8648,7 +8648,7 @@ module.exports = _iterableToArrayLimit;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/nonIterableRest.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/nonIterableRest.js":
 /***/ (function(module, exports) {
 
 function _nonIterableRest() {
@@ -8659,7 +8659,7 @@ module.exports = _nonIterableRest;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/nonIterableSpread.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/nonIterableSpread.js":
 /***/ (function(module, exports) {
 
 function _nonIterableSpread() {
@@ -8670,16 +8670,16 @@ module.exports = _nonIterableSpread;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/objectSpread.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/objectSpread.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Object$getOwnPropertyDescriptor = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-own-property-descriptor.js");
+var _Object$getOwnPropertyDescriptor = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-own-property-descriptor.js");
 
-var _Object$getOwnPropertySymbols = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/get-own-property-symbols.js");
+var _Object$getOwnPropertySymbols = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/get-own-property-symbols.js");
 
-var _Object$keys = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/object/keys.js");
+var _Object$keys = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/object/keys.js");
 
-var defineProperty = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/defineProperty.js");
+var defineProperty = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/defineProperty.js");
 
 function _objectSpread(target) {
   for (var i = 1; i < arguments.length; i++) {
@@ -8705,12 +8705,12 @@ module.exports = _objectSpread;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _typeof = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/typeof.js");
+var _typeof = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/typeof.js");
 
-var assertThisInitialized = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js");
+var assertThisInitialized = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/assertThisInitialized.js");
 
 function _possibleConstructorReturn(self, call) {
   if (call && (_typeof(call) === "object" || typeof call === "function")) {
@@ -8724,14 +8724,14 @@ module.exports = _possibleConstructorReturn;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/slicedToArray.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/slicedToArray.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var arrayWithHoles = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/arrayWithHoles.js");
+var arrayWithHoles = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/arrayWithHoles.js");
 
-var iterableToArrayLimit = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js");
+var iterableToArrayLimit = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js");
 
-var nonIterableRest = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/nonIterableRest.js");
+var nonIterableRest = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/nonIterableRest.js");
 
 function _slicedToArray(arr, i) {
   return arrayWithHoles(arr) || iterableToArrayLimit(arr, i) || nonIterableRest();
@@ -8741,14 +8741,14 @@ module.exports = _slicedToArray;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/toConsumableArray.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/toConsumableArray.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var arrayWithoutHoles = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js");
+var arrayWithoutHoles = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js");
 
-var iterableToArray = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/iterableToArray.js");
+var iterableToArray = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/iterableToArray.js");
 
-var nonIterableSpread = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/helpers/nonIterableSpread.js");
+var nonIterableSpread = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/helpers/nonIterableSpread.js");
 
 function _toConsumableArray(arr) {
   return arrayWithoutHoles(arr) || iterableToArray(arr) || nonIterableSpread();
@@ -8758,12 +8758,12 @@ module.exports = _toConsumableArray;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/typeof.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/helpers/typeof.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var _Symbol$iterator = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/symbol/iterator.js");
+var _Symbol$iterator = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/symbol/iterator.js");
 
-var _Symbol = __webpack_require__("../../node_modules/next/node_modules/@babel/runtime/core-js/symbol.js");
+var _Symbol = __webpack_require__("../../node_modulesnext/node_modules/@babel/runtime/core-js/symbol.js");
 
 function _typeof2(obj) { if (typeof _Symbol === "function" && typeof _Symbol$iterator === "symbol") { _typeof2 = function _typeof2(obj) { return typeof obj; }; } else { _typeof2 = function _typeof2(obj) { return obj && typeof _Symbol === "function" && obj.constructor === _Symbol && obj !== _Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof2(obj); }
 
@@ -8785,7 +8785,7 @@ module.exports = _typeof;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js":
+/***/ "../../node_modulesnext/node_modules/@babel/runtime/regenerator/index.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("../../node_modules/regenerator-runtime/runtime-module.js");
@@ -8793,7 +8793,7 @@ module.exports = __webpack_require__("../../node_modules/regenerator-runtime/run
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/prop-types/checkPropTypes.js":
+/***/ "../../node_modulesnext/node_modules/prop-types/checkPropTypes.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8809,7 +8809,7 @@ module.exports = __webpack_require__("../../node_modules/regenerator-runtime/run
 if (true) {
   var invariant = __webpack_require__("../../node_modules/fbjs/lib/invariant.js");
   var warning = __webpack_require__("../../node_modules/fbjs/lib/warning.js");
-  var ReactPropTypesSecret = __webpack_require__("../../node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js");
+  var ReactPropTypesSecret = __webpack_require__("../../node_modulesnext/node_modules/prop-types/lib/ReactPropTypesSecret.js");
   var loggedTypeFailures = {};
 }
 
@@ -8860,7 +8860,7 @@ module.exports = checkPropTypes;
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js":
+/***/ "../../node_modulesnext/node_modules/prop-types/factoryWithTypeCheckers.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8878,8 +8878,8 @@ var invariant = __webpack_require__("../../node_modules/fbjs/lib/invariant.js");
 var warning = __webpack_require__("../../node_modules/fbjs/lib/warning.js");
 var assign = __webpack_require__("../../node_modules/object-assign/index.js");
 
-var ReactPropTypesSecret = __webpack_require__("../../node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js");
-var checkPropTypes = __webpack_require__("../../node_modules/next/node_modules/prop-types/checkPropTypes.js");
+var ReactPropTypesSecret = __webpack_require__("../../node_modulesnext/node_modules/prop-types/lib/ReactPropTypesSecret.js");
+var checkPropTypes = __webpack_require__("../../node_modulesnext/node_modules/prop-types/checkPropTypes.js");
 
 module.exports = function(isValidElement, throwOnDirectAccess) {
   /* global Symbol */
@@ -9410,7 +9410,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/prop-types/index.js":
+/***/ "../../node_modulesnext/node_modules/prop-types/index.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 /**
@@ -9435,7 +9435,7 @@ if (true) {
   // By explicitly using `prop-types` you are opting into new development behavior.
   // http://fb.me/prop-types-in-prod
   var throwOnDirectAccess = true;
-  module.exports = __webpack_require__("../../node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js")(isValidElement, throwOnDirectAccess);
+  module.exports = __webpack_require__("../../node_modulesnext/node_modules/prop-types/factoryWithTypeCheckers.js")(isValidElement, throwOnDirectAccess);
 } else {
   // By explicitly using `prop-types` you are opting into new production behavior.
   // http://fb.me/prop-types-in-prod
@@ -9445,7 +9445,7 @@ if (true) {
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js":
+/***/ "../../node_modulesnext/node_modules/prop-types/lib/ReactPropTypesSecret.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -10514,7 +10514,7 @@ if (true) {
 
 var React = __webpack_require__("../../node_modules/react/index.js");
 var _assign = __webpack_require__("../../node_modules/object-assign/index.js");
-var checkPropTypes = __webpack_require__("../../node_modules/next/node_modules/prop-types/checkPropTypes.js");
+var checkPropTypes = __webpack_require__("../../node_modulesnext/node_modules/prop-types/checkPropTypes.js");
 var schedule = __webpack_require__("../../node_modules/schedule/index.js");
 var tracking = __webpack_require__("../../node_modules/schedule/tracking.js");
 
@@ -28823,7 +28823,7 @@ if (true) {
 'use strict';
 
 var _assign = __webpack_require__("../../node_modules/object-assign/index.js");
-var checkPropTypes = __webpack_require__("../../node_modules/next/node_modules/prop-types/checkPropTypes.js");
+var checkPropTypes = __webpack_require__("../../node_modulesnext/node_modules/prop-types/checkPropTypes.js");
 
 // TODO: this is special because it gets imported during build.
 
@@ -37138,9 +37138,9 @@ module.exports = {"inner":"testimonials__inner___1f0tx","slides":"testimonials__
 /***/ 0:
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/next/dist/client/webpack-hot-middleware-client.js");
-__webpack_require__("../../node_modules/next/dist/client/on-demand-entries-client.js");
-module.exports = __webpack_require__("../../node_modules/next/dist/client/next-dev.js");
+__webpack_require__("../../node_modulesnext/dist/client/webpack-hot-middleware-client.js");
+__webpack_require__("../../node_modulesnext/dist/client/on-demand-entries-client.js");
+module.exports = __webpack_require__("../../node_modulesnext/dist/client/next-dev.js");
 
 
 /***/ })
