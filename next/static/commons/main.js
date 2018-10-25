@@ -5262,7 +5262,7 @@ _regenerator.default.mark(function _callee() {
         case 32:
           exports.ErrorComponent = ErrorComponent = _context.sent;
           _context.next = 35;
-          return pageLoader.loadPage('/_app');
+          return pageLoader.loadPage('/app');
 
         case 35:
           App = _context.sent;
@@ -5840,11 +5840,11 @@ var _unfetch = _interopRequireDefault(__webpack_require__("../../node_modules/un
 var filenameRE = /\(([^)]+\.js):(\d+):(\d+)\)$/;
 
 function applySourcemaps(_x) {
-  return _applySourcemaps.apply(this, arguments);
+  return applySourcemaps.apply(this, arguments);
 }
 
-function _applySourcemaps() {
-  _applySourcemaps = (0, _asyncToGenerator2.default)(
+function applySourcemaps() {
+  applySourcemaps = (0, _asyncToGenerator2.default)(
   /*#__PURE__*/
   _regenerator.default.mark(function _callee(e) {
     var lines, result;
@@ -5879,7 +5879,7 @@ function _applySourcemaps() {
       }
     }, _callee, this);
   }));
-  return _applySourcemaps.apply(this, arguments);
+  return applySourcemaps.apply(this, arguments);
 }
 
 function rewriteTraceLine(_x2) {
@@ -6018,14 +6018,14 @@ var _default = function _default() {
       } // If the App component changes we have to reload the current route
 
 
-      if (route === '/_app') {
+      if (route === '/app') {
         _router.default.reload(_router.default.route);
 
         return;
-      } // Since _document is server only we need to reload the full page when it changes.
+      } // Since document is server only we need to reload the full page when it changes.
 
 
-      if (route === '/_document') {
+      if (route === '/document') {
         window.location.reload();
         return;
       }
@@ -6034,14 +6034,14 @@ var _default = function _default() {
     },
     change: function change(route) {
       // If the App component changes we have to reload the current route
-      if (route === '/_app') {
+      if (route === '/app') {
         _router.default.reload(_router.default.route);
 
         return;
-      } // Since _document is server only we need to reload the full page when it changes.
+      } // Since document is server only we need to reload the full page when it changes.
 
 
-      if (route === '/_document') {
+      if (route === '/document') {
         window.location.reload();
         return;
       }
@@ -7103,7 +7103,7 @@ function () {
       };
     }
 
-    this.components['/_app'] = {
+    this.components['/app'] = {
       Component: App // Handling Router Events
 
     };
@@ -7724,7 +7724,7 @@ function () {
                 };
 
                 this.componentLoadCancel = cancel;
-                App = this.components['/_app'].Component;
+                App = this.components['/app'].Component;
                 _context6.next = 6;
                 return (0, _utils.loadGetInitialProps)(App, {
                   Component: Component,
@@ -7799,7 +7799,7 @@ function () {
   }, {
     key: "notify",
     value: function notify(data) {
-      var App = this.components['/_app'].Component;
+      var App = this.components['/app'].Component;
       this.subscriptions.forEach(function (fn) {
         return fn((0, _objectSpread2.default)({}, data, {
           App: App
@@ -34114,7 +34114,7 @@ SourceMapGenerator.prototype.setSourceContent =
  *        relative to the SourceMapGenerator.
  */
 SourceMapGenerator.prototype.applySourceMap =
-  function SourceMapGenerator_applySourceMap(aSourceMapConsumer, aSourceFile, aSourceMapPath) {
+  function SourceMapGeneratorapplySourceMap(aSourceMapConsumer, aSourceFile, aSourceMapPath) {
     var sourceFile = aSourceFile;
     // If aSourceFile is omitted, we will use the file property of the SourceMap
     if (aSourceFile == null) {
